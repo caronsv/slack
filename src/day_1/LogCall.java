@@ -3,5 +3,6 @@ package day_1;
 public class LogCall {
     //users are able to call through slack
     //happy Friday
+    //happy Sveta
 
 }
